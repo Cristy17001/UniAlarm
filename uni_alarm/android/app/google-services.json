@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003526315938",
+    "firebase_url": "https://uni-alarm-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uni-alarm",
+    "storage_bucket": "uni-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003526315938:android:d749a3fa2d076c07241cfb",
+        "android_client_info": {
+          "package_name": "com.feup.uni_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003526315938-2lpd4kko70m7te0ohnmg5cdqcuv1f7p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruUPzy7c03VhVOPC0UaRrLJDkNrIui40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003526315938-2lpd4kko70m7te0ohnmg5cdqcuv1f7p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
